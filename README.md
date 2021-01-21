@@ -6,3 +6,7 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 
 The Final Product after training a model using YOLOv3. Contains different code to work with images and videos. Real-time detection can be achieved by modifying the code for video to read inputs from respective webcam.
 
+![masked](https://github.com/jans-johnson/Real-time-Single-Multiple-Facemask-Detection-Using-YOLOv3-and-OpenCV-/blob/main/Readme_images/Screenshot%20(59).png)
+
+![no mask](https://github.com/jans-johnson/Real-time-Single-Multiple-Facemask-Detection-Using-YOLOv3-and-OpenCV-/blob/main/Readme_images/nomask.png)
+
