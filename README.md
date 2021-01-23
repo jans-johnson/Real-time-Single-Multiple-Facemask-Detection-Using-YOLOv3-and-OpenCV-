@@ -1,6 +1,6 @@
 # Real-time-Single-Multiple-Facemask-Detection-Using-YOLOv3-and-OpenCV-
 
-In the present scenario due to Covid-19, there is no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of ‘with_mask’ images has made this task more cumbersome and challenging.
+After the breakout of the worldwide pandemic COVID-19, there arises a severe need of protection mechanisms, face mask being the primary one. The basic aim of the project is to detect the presence of a face mask on human faces on live streaming video as well as on images.
 
 ![Real-time Object detection](https://github.com/jans-johnson/Real-time-Single-Multiple-Facemask-Detection-Using-YOLOv3-and-OpenCV-/blob/main/Readme_images/demo.gif)
 
